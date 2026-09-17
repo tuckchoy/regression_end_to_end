@@ -3,7 +3,6 @@ Project Title and Description
 Begin with the title of your project and a brief description of what it does. This section should provide a high-level overview of your project's purpose and functionality.
 
 Prerequisites and Installation
-
 List any prerequisites needed to run the project, such as Python version, libraries, and other dependencies. Include instructions on how to set up the environment and install the necessary packages. This is where your 'requirements.txt' file will come in handy.
 
 Instructions for Executing the Pipeline
